@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @ashish-bhaskar73
-- 👀 I’m interested in c++ and sql
-- 🌱 I’m currently learning java and linux.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me ashishbhaskar0123@gmail.com
-
-<!---
-ashish-bhaskar73/ashish-bhaskar73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#include<iostream>
+using namespace std;
+int main(){
+     int t;
+     cin>>t;
+     while(t--){
+     	int n,k;
+     	cin>>n>>k;
+     	
+     	int *arr=new int[n];
+     	for(int i=0;i<n;i++){
+     		cin>>arr[i];
+     	}
+     	for(int i=0;i<n;i++){
+     		if(k>=arr[i]){
+     			k-=arr[i];
+     			cout<<"1";
+     		}
+     		else{
+     			cout<<"0";
+     		}
+     	}
+     }
+	return 0;
+}
