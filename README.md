@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashish-bhaskar73
-- 👀 I’m interested in software doveloping and data science
-- 🌱 I’m currently learning  java
+- 👀 I’m interested in DevOps field
+- 🌱 I’m currently learning Kubernities
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ashishbhaskar0123@gmail.com
 
