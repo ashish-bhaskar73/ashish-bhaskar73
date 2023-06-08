@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashish-bhaskar73
 - 👀 I’m interested in DevOps field
 - 🌱 I’m currently learning Kubernities
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any DevOps projects
 - 📫 How to reach me ashishbhaskar0123@gmail.com
 
 <!---
