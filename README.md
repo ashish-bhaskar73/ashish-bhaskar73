@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL, DevOps**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://ashishbhaskar.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://ashishbhaskar-portfolio.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
